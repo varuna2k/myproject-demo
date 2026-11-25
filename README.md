@@ -1,4 +1,4 @@
 # myproject-demo
-this is sample git.
+This is sample git.
 <br>
 Author - Varuna
