@@ -1,4 +1,4 @@
 # myproject-demo
 This is sample git.
 <br>
-Author - Varuna
+Author - Varuna B
